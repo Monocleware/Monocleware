@@ -1,4 +1,4 @@
-# Monocleware
+# Monocleware [![Monocleware Logo](MonocleWare.jpg)](Monocleware.jpg)
 
 ## About Us
 
@@ -42,8 +42,3 @@ We welcome contributions to our open-source projects! Please check our [CONTRIBU
 ## License
 
 Our software is licensed under the [Specify the license, e.g., MIT License]. See the [LICENSE](link_to_license_file) file for more details.
-
-##  Logo
-
- inclusion of a logo would be good but since I cannot access local files, please add it manually
-
