@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="Logo/MonocleWare.jpg" alt="Monocleware Logo" style="height: 60px; margin-right: 20px; border-radius: 8px;">
+    <img src="MonocleWare.jpg" alt="Monocleware Logo" style="height: 60px; margin-right: 20px; border-radius: 8px;">
     <h1 style="margin: 0; font-size: 2.5em; color: #333; font-weight: bold;">Monocleware</h1>
 </div>
 
