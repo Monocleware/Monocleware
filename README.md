@@ -1,4 +1,7 @@
-# Monocleware [![Monocleware Logo](MonocleWare.jpg)](Monocleware.jpg)
+<div style="display: flex; align-items: center;">
+    <img src="Logo/MonocleWare.jpg" alt="Monocleware Logo" style="height: 50px; margin-right: 10px;">
+    # Monocleware
+</div>
 
 ## About Us
 
@@ -18,7 +21,7 @@ Atlas is our flagship software, designed to [**Describe the core functionality o
 
 ## Future Products
 
-Monocleware is committed to continuous innovation. We have several exciting projects in the pipeline, and we are constantly exploring new ways to leverage technology to create valuable software solutions.  Stay tuned for more updates on our upcoming products!
+Monocleware is committed to continuous innovation. We have several exciting projects in the pipeline, and we are constantly exploring new ways to leverage technology to create valuable software solutions. Stay tuned for more updates on our upcoming products!
 
 ## Company Values
 
